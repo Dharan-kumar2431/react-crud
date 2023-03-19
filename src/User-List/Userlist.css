@@ -1,0 +1,8 @@
+table,tr,th,td{
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.userListTable{
+    margin: auto;
+}
